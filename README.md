@@ -12,6 +12,5 @@ A centralized repository for Butterfly related brews.
 Run the following in your command-line:
 
 ```sh
-$ brew tap paypal/butterfly
-$ brew install butterfly
+$ brew install paypal/butterfly/butterfly
 ```
