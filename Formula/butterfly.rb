@@ -1,10 +1,10 @@
 class Butterfly < Formula
-  VERSION = "3.0.0"
+  VERSION = "3.1.0"
 
   desc "Application code transformation tool"
   homepage "https://github.com/paypal/butterfly"
   url "https://search.maven.org/remotecontent?filepath=com/paypal/butterfly/butterfly-cli-package/#{VERSION}/butterfly-cli-package-#{VERSION}.zip"
-  sha256 "3031194c36e173cdd4ce7c9865f121eaabae138c3a6ef2e32ad30525926f80b0"
+  sha256 "17b976bb1f2b5dadf1022a4907633df953a6592afdce4bcb6d4c524cd8a659b9"
 
   depends_on :java => "1.7+"
 
